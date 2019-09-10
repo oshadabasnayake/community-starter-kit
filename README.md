@@ -2,9 +2,10 @@
 # Community Starter Kit
 ## Guide Lines :point_down:
 1. Creating Repository 
-2. Make Pull Request
-3. Merge Request  
-4. 
-5.
+2. User Documentation-(upload or add to   README.md)
+3. Make Pull Request
+4. Merge Request  
+5. 
+6.
 
 
