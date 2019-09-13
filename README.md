@@ -5,7 +5,8 @@
 2. User Documentation-(upload or add to   README.md)
 3. Make Pull Request
 4. Merge Request  
-5. 
-6.
+5. Issue adding *label creating
+ 
 
 
+          
