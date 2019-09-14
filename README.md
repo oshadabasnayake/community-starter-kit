@@ -6,7 +6,7 @@
 3. Make Pull Request
 4. Merge Request  
 5. Issue adding  
-    *  issue label creating
+  *  issue label creating
  
 
 
