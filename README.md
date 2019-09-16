@@ -3,6 +3,7 @@
 ## Guide Lines :point_down:
 1. Creating Repository 
 2. User Documentation-(upload or add to   README.md)
+      * corrections
 3. Make Pull Request
 4. Merge Request  
 5. Issue adding  
