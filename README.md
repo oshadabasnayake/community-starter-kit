@@ -4,9 +4,10 @@
 1. Creating Repository 
 2. User Documentation-(upload or add to   README.md)
       * corrections
-3. Make Pull Request
-4. Merge Request  
-5. Issue adding  
+3. Add Topics (for referencing)
+. Make Pull Request
+. Merge Request  
+. Issue adding  
     *  issue label creating
  
 
