@@ -9,6 +9,8 @@
 5. Merge Request  
 6. Issue adding  
     *  issue label creating
+    *  closing issues
+7. 
  
 
 
