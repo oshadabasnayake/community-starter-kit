@@ -3,7 +3,7 @@
 ## Guide Lines :point_down:
 1. Creating Repository 
 2. Little Intro
-. User Documentation - (upload or add to   README.md)
+3. User Documentation - (upload or add to   README.md)
       * corrections
 . Add Topics - (for referencing)
 . Make Pull Request
