@@ -5,7 +5,7 @@
 2. Little Intro
 3. User Documentation - (upload or add to   README.md)
       * corrections
-. Add Topics - (for referencing)
+4. Add Topics - (for referencing)
 . Make Pull Request
 . Merge Request  
 . Issue adding  
