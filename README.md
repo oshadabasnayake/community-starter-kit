@@ -6,7 +6,7 @@
 3. User Documentation - (upload or add to   README.md)
       * corrections
 4. Add Topics - (for referencing)
-. Make Pull Request
+5. Make Pull Request
 . Merge Request  
 . Issue adding  
     *  issue label creating
