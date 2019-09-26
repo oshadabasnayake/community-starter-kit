@@ -7,7 +7,7 @@
       * corrections
 4. Add Topics - (for referencing)
 5. Make Pull Request
-. Merge Request  
+6. Merge Request  
 . Issue adding  
     *  issue label creating
     *  closing issues
