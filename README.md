@@ -8,10 +8,10 @@
 4. Add Topics - (for referencing)
 5. Make Pull Request
 6. Merge Request  
-. Issue adding  
+7. Issue adding  
     *  issue label creating
     *  closing issues
-7. 
+8. 
  
 
 
