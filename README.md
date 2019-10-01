@@ -5,7 +5,7 @@
 2. Little Intro
 3. User Documentation - (upload or add to   README.md)
       * corrections
-      * adding :hand: pictures,videos,pfpfpddf
+      * adding :hand: pictures,videos,pdf,coded
 4. Add Topics - (for referencing)
 5. Make Pull Request
 6. Merge Request  
