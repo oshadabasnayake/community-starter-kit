@@ -13,7 +13,7 @@
     *  issue label creating
     *  closing issues
 8. Commit
-. Code Review
+9. Code Review
  
 
 
