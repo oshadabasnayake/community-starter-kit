@@ -15,6 +15,7 @@
 8. Commit
 9. Code Review
 10. wiki idea
+11. gist
  
 
 
