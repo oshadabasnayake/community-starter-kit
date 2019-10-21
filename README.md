@@ -1,4 +1,4 @@
-# For Beginners:baby: :point_down::point_down::point_down:
+# For Beginners:baby: :point_down: :point_down::point_down:
 # Community Starter Kit
 ## Guide Lines :point_down:
 1. Creating Repository 
@@ -18,7 +18,7 @@
 11. gist
 
 * additional
-* add labels
+* add labels(methods of labels)
  
 
 
