@@ -18,7 +18,7 @@
 11. gist
 
 * additional
-* add labels(methods of labels)
+* add labels(methods of labels-sites)
  
 
 
